@@ -1,0 +1,10 @@
+C:\Users\aviedb\source\repos\Wordpad_1061\Wordpad_1061\bin\Debug\Wordpad_1061.exe.config
+C:\Users\aviedb\source\repos\Wordpad_1061\Wordpad_1061\bin\Debug\Wordpad_1061.exe
+C:\Users\aviedb\source\repos\Wordpad_1061\Wordpad_1061\bin\Debug\Wordpad_1061.pdb
+C:\Users\aviedb\source\repos\Wordpad_1061\Wordpad_1061\obj\Debug\Wordpad_1061.csprojAssemblyReference.cache
+C:\Users\aviedb\source\repos\Wordpad_1061\Wordpad_1061\obj\Debug\Wordpad_1061.Form1.resources
+C:\Users\aviedb\source\repos\Wordpad_1061\Wordpad_1061\obj\Debug\Wordpad_1061.Properties.Resources.resources
+C:\Users\aviedb\source\repos\Wordpad_1061\Wordpad_1061\obj\Debug\Wordpad_1061.csproj.GenerateResource.cache
+C:\Users\aviedb\source\repos\Wordpad_1061\Wordpad_1061\obj\Debug\Wordpad_1061.csproj.CoreCompileInputs.cache
+C:\Users\aviedb\source\repos\Wordpad_1061\Wordpad_1061\obj\Debug\Wordpad_1061.exe
+C:\Users\aviedb\source\repos\Wordpad_1061\Wordpad_1061\obj\Debug\Wordpad_1061.pdb
